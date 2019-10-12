@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: postcard
 title:  "Welcome to Jekyll!"
 date:   2019-10-11 19:27:37 +0800
 categories: jekyll update
